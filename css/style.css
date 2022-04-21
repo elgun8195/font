@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(238, 226, 226);
+}
+
+.main{
+    width: 100%;
+    height: 250px;
+    padding: 0%;
+    text-align: center;
+    background-color: white;
+    margin-top: 20%;
+}
+
+
+.card-first{
+    padding: 0%;
+    font-size: 45px;
+    padding-top: 0.1%;
+}
+
+
+
+.card-icon a{
+    color: white;
+    padding: 30px 30px 30px 35px;
+    border-radius: 50%;
+    text-decoration: none;
+    font-size: 50px;
+    margin-left: 1%;
+}
+.fb{
+    background-color: rgb(48, 48, 221);
+}
+.tw{
+    background-color: cornflowerblue;
+}
+
+.gp{
+    background-color: rgb(133, 45, 11);
+}
+.vk{
+    background-color:cornflowerblue ;
+}
+.ok{
+    background-color: rgb(173, 83, 50);
+}
+
+.pin{
+    background-color: rgb(133, 45, 11);
+}
+
+.envelope{
+    background-color: rgb(48, 48, 221);
+}
